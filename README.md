@@ -1,7 +1,7 @@
 <h1>Gillpreet Singh</h1>
 I'm a Front End Developer.
 
-- 🔭 I’m currently working as a **web developer.**
+- 🔭 I want to work as a **front end developer || web developer.**
 
 - 🌱 I’m currently learning **GraphQL**.
 
