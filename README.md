@@ -3,7 +3,7 @@ I'm a Front End Developer.
 
 - 🔭 I want to work as a **front end developer || web developer.**
 
-- 🌱 I’m currently learning **GraphQL**.
+- 🌱 I’m currently learning **Typescript**.
 
 - 👨‍💻 All of my projects are available at [https://www.gillpreet.com](https://www.gillpreet.com)
 
