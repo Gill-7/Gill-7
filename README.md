@@ -46,5 +46,5 @@ I'm a Front End Developer.
 
 <h3>Other way to reach me:</h3>
 <a>
-<a href="https://www.linkedin.com/in/gillpreet-gill-8443b6158/" target="blank">LinkedIn
+<a href="https://www.linkedin.com/in/gillpreetsingh/" target="blank">LinkedIn
 </a>
