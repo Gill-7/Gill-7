@@ -1,9 +1,8 @@
 <h1>Gillpreet Singh</h1>
-I'm a Front End Developer.
 
-- 🔭 I want to work as a **front end developer || web developer.**
+- 🔭 I want to work as a **Front-End developer || Web developer || Full-Stack Developer.**
 
-- 🌱 I’m currently learning **Typescript**.
+- 🌱 I’m currently learning **Python**.
 
 - 👨‍💻 All of my projects are available at [https://www.gillpreet.com](https://www.gillpreet.com)
 
