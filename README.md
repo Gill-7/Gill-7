@@ -45,5 +45,5 @@
 
 <h3>Other way to reach me:</h3>
 <a>
-<a href="[https://www.linkedin.com/in/gillpreetsingh/](https://www.linkedin.com/in/gillpreet-singh-gill-4130a4297/)" target="blank">LinkedIn
+<a href="https://www.linkedin.com/in/gillpreet-singh-gill-4130a4297/" target="blank">Linkedin
 </a>
