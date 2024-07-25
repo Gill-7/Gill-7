@@ -1,6 +1,6 @@
 <h1>Gillpreet Singh</h1>
 
-- 🔭 I want to work as a **Front-End developer || Web developer || Full-Stack Developer.**
+- 🔭 I'm a **Full-Stack Developer**.
 
 - 🌱 I’m currently learning **Python**.
 
